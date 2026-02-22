@@ -9,7 +9,13 @@ function Projects() {
     
       image: "/images/udacity-certificate.png", // replace with your project/certificate image
       link: "https://book-bet.vercel.app/Psychology"
-    },
+    },{
+      title:'Todo App',
+      description:'Completed a foundational programming course covering variables, control structures, functions, and basic algorithms. ',
+      link:'https://todo-list-six-lake-99.vercel.app/'
+    }
+
+
     
     
     
